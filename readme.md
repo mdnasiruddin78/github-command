@@ -1,0 +1,1 @@
+github command : git config --global --add safe.directory '*'
